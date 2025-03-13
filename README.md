@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://github.com/anlyetim/PortXplorer/blob/main/icoLatest.png" width="150" height="150" style="vertical-align: middle; margin-right: 5px;">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-PC-red">
+  <img src="https://img.shields.io/badge/Language-Python-blue">
+  <img src="https://img.shields.io/badge/Tool-PenetrationTest-blueviolet">
+</p>
+
 # PortXplorer - Network Analysis & Port Scanning Tool
 
 &#x20;Bu repo, **PortXplorer** adlı ağ analiz ve izleme aracı üzerine geliştirilmiş bir projeyi içermektedir. Proje, ağ trafiğini analiz etmek, paketleri yakalamak ve güvenlik izleme süreçlerini geliştirmek için kullanılmaktadır.
