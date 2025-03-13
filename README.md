@@ -18,10 +18,10 @@
 
 ### Kurulum / Installation
 
-- Buradan [PortXplorer.exe]() Dosyasını indirin.
+- Buradan [PortXplorer.exe](https://github.com/anlyetim/PortXplorer/releases/download/PortXplorer/PortXplorer.exe) Dosyasını indirin.
 - Çift tıklayarak dosyayı açın.
 ##
-- Download [PortXplorerEN.exe]() from here.
+- Download [PortXplorerEN.exe](https://github.com/anlyetim/PortXplorer/releases/download/PortXplorer/PortXplorerEN.exe) from here.
 - Double click to open file.
 
 ## 🛠 Kullanım / Usage
