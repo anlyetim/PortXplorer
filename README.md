@@ -28,9 +28,14 @@
 
 - PortXplorer'ı direkt olarak Python üzerinden çalıştırmak için aşağıdaki komutu kullanabilirsiniz:
 - You can use the following command to run PortXplorer directly from Python:
-
+  
+Türkçe Arayüz için:
 ```bash
 python PortXplorer.py
+```
+For English GUI:
+```bash
+python PortXplorerEN.py
 ```
 
 - GUI arayüzü üzerinden ağdaki portları tarayabilir ve taramanın sonucunda port olup olmadığını, port varsa bu portların hangileri olduğunu öğrenebilirsiniz.
